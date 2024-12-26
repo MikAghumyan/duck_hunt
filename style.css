@@ -1,0 +1,170 @@
+body{
+	background-color:dimgray;
+}
+#div{
+	width:450px;
+	height:400px;
+	top:200px;
+	left:200px;
+	background-color: black;
+	margin:auto auto auto auto;
+}
+#pMenu{
+	font-style:arial;
+	font-size:20px;
+	color:lightskyblue;
+	margin:auto;
+}
+#bckGround{
+	width:450px;
+	height:400px;
+	top:200px;
+	left:200px;
+	background-color: black;
+	margin:auto auto auto auto;
+}
+#btnPlay{
+	margin-top: 5px;
+	margin-bottom: 170px;
+	margin-left: 175px;
+	margin-right: 175px;
+}
+#imgPlay{
+	margin-top: 0px;
+	margin-left: 70px;
+	margin-bottom: 0px;
+	margin-right: 50px;
+}
+#txtClr{
+	color:white;
+	margin-top: -30px;
+	margin-bottom: 0px;
+	margin-left: 170px;
+	margin-right: 175px;
+}
+#imgDog{
+	margin-top: -200px;
+	margin-bottom: 50px;
+	margin-left: 150px;
+	margin-right: 190px;
+	background-color: lightgreen;
+}
+#p{
+    margin: auto;
+    font-size:20px;
+	background-color: purple;
+}
+#bckGrnd{
+	position:absolute;
+	width:450px;
+	height:400px;
+    top:auto;
+	/*left:200px;*/
+	background-color: seagreen;
+	background-image: url("pictures/background.gif");
+	background-repeat: no-repeat;
+}
+#txtHearts{
+	font-size: 30px;
+	margin-top: 325px;
+}
+#txtScore{
+	font-size: 30px;
+	margin-top:-65px;
+	margin-left:150px;
+}
+
+#bckPause{
+	position: absolute;
+	width:450px;
+	height:400px;
+	top:auto;
+	background-color: seagreen;
+
+}
+#btnResume{
+	position:absolute;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: none;
+	padding:20px 50px;
+	border-radius: 4px;
+	background-color: #f4511e;
+	top: auto;
+	margin-top: 30px;
+	left:auto;
+	margin-left: 113.5px;
+	width: 223px;
+}
+
+#btnMenu{
+	position:absolute;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: none;
+	padding:20px 50px;
+	border-radius: 4px;
+	background-color: #f4511e;
+	/*top:290px;*/
+	top: auto;
+    margin-top: 150px;
+	left:auto;
+	margin-left: 113.5px;
+    width: 223px;
+}
+#duck{
+     position:absolute;
+     left:190px;
+     top:270px;
+	 width: 50px;
+	 height: 50px;
+}
+#dog{
+     position:absolute;
+     left:190px;
+     top:193px;
+	 width: 50px;
+	 height: 50px;
+}
+/*
+#btnMenu {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  	top:190px;
+	left:190px;
+}
+
+#btnMenu span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#btnMenu span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;px
+  right: -20px;
+  transition: 0.5s;
+}
+
+#btnMenu:hover span {
+  padding-right: 25px;
+}
+
+#btnMenu:hover span:after {
+  opacity: 1;
+  right: 0;
+}*/
